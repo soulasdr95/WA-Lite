@@ -1,0 +1,14 @@
+{"version_code":452893,"content":"
+<p> تحديث|Update 6.15</p>
+
+<li>تمديد فتره الصلاحية (ريثما يتم الانتهاء من التحديث الجديد)</li>
+<li> ازالة رسالة التحديث المزعجة</li>
+
+
+
+<li> Added Anti-Expiry</li>
+<li> Removed Annoying Update WhatsApp message</li>
+
+
+","url":"https://soula107.blogspot.com/2019/08/walite.html"
+}
