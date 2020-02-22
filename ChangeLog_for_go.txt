@@ -1,4 +1,4 @@
-{"version_code":453222,"content":"
+{"version_code":453193,"content":"
 <p> تحديث|Update 0.20.22L</p>
 
 <li>التحديث لنسخة الماركت 2.20.47 المستقرة</li>
