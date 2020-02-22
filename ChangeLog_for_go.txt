@@ -14,7 +14,6 @@
 <li>إصلاحات اخرى</li>
 
 
-
 <li>New Base Updated to 2.20.47 Stable Base</li>
 <li>Enabled Dark Mode (Stable)</li>
 <li>Added Click to Mark Status as Viewed</li>
