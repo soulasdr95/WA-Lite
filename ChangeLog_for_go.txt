@@ -2,32 +2,11 @@
 <p> تحديث|Update 0.20.22L</p>
 
 <li> التحديث لنسخة الماركت 2.20.47 المستقرة</li>
-<li> تفعيل الوضع الليلي</li>
-<li> اضافة امكانية اعادة توجيه الرسالة ل180 شخص بدلا من 5 اشخاص</li>
-<li> دعم الملصقات المتحركة </li>
-<li> اضافة امكانية حذف الرسالة حتى ثلاثة اشهر</li>
-<li> اضافة خيار لاعادة تعين كافة اعدادات الخصوصية الى وضعها الافتراضي  </li>
-<li> اضافة امكانية معرفة الحالة المحذوفة</li>
-<li> تحسين ميزة تنزيل/ حفظ الحالات </li>
-<li> اضافة امكانية اختيار الحالة التي تريد ان يتم معرفة الشخص الاخر انك شاهدتها عبر الضغط فقط على علامة الرؤية</li>
-<li> اضافة امكانية إعادة الارسال بدون ظهور رسالة مُحولة </li>
-<li> إصلاحات اخرى</li>
 
 
 
-<li> New Base Updated to 2.20.47 Stable Base</li>
-<li> Enabled Dark Mode (Stable)</li>
-<li> Added Click to Mark Status as Viewed</li>
-<li> Enabled Animated Stickers</li>
-<li> Enabled Animated Stickers Store</li>
-<li> Increased Delete message time (delete for everyone) to 3 months</li>
-<li> Added Option to Reset All Privacy Settings To Default </li>
-<li> Increase Forward limit to 180 chats</li>
-<li> Added option to Disable "Forward" tag</li>
-<li> Know Deleted Status </li>
-<li> Improved Status Downloader</li>
-<li> Added Anti-Delete Status/Story option</li>
-<li> Fixed Know which new messages are deleted in chat</li>
+
+
 <li> Other fixes.</li>
 
 
