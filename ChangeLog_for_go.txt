@@ -1,4 +1,4 @@
-{"version_code":453199,"content":"
+{"version_code":453193,"content":"
 <p> تحديث|Update 0.20.22L</p>
 
 <li> التحديث لنسخة الماركت 2.20.47 المستقرة</li>
@@ -16,13 +16,13 @@
 
 
 <li> New Base Updated to 2.20.47 Stable Base</li>
-<li> Enabled Dark Mode (Stable!)</li>
+<li> Enabled Dark Mode (Stable)</li>
 <li> Added Click to Mark Status as Viewed</li>
 <li> Enabled Animated Stickers</li>
 <li> Enabled Animated Stickers Store</li>
 <li> Increased Delete message time (delete for everyone) to 3 months</li>
 <li> Added Option to Reset All Privacy Settings To Default (Open privacy settings and Click on 3 Dots at right Corner and click (reset privacy settings))</li>
-<li> Increase Forward limit to 180 chats (USE AT OWN RISK!!!)</li>
+<li> Increase Forward limit to 180 chats (USE AT OWN RISK)</li>
 <li> Added option to Disable "Forward" tag  </li>
 <li> Know Deleted Status </li>
 <li> Improved Status Downloader (Now you have two ways : 1- download status via download button ,2- Open any Status and Click on 3 Dots at the right Corner then click download (Note: Support muted status))</li>
