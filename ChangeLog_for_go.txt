@@ -1,10 +1,14 @@
 {"version_code":453196,"content":"
-<p> تحديث|Update 0.20.22L</p>
+<p> تحديث|Update 6.15</p>
 
-<li> التحديث لنسخة الماركت 2.20.47 المستقرة</li>
+<li>تمديد فتره الصلاحية (ريثما يتم الانتهاء من التحديث الجديد)</li>
+<li> ازالة رسالة التحديث المزعجة</li>
 
-<li> Other fixes.</li>
 
 
-","url":"https://soula107.blogspot.com/2019/08/wago.html"
+<li> Added Anti-Expiry</li>
+<li> Removed Annoying Update WhatsApp message</li>
+
+
+","url":"https://soula107.blogspot.com/2019/08/walite.html"
 }
