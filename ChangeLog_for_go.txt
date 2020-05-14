@@ -1,19 +1,25 @@
-{"version_code":453429,"content":"
-<p> تحديث|Update 0.20.40L</p>
+{"version_code":453597,"content":"
+<p> تحديث|Update 0.20.50L</p>
 
 
-<li> التحديث لنسخة الماركت 2.20.123 المستقرة</li>
-<li>إمكانية تثبيت 25 محادثة بدلا من 3 </li>
-<li> اصلاح ميزة ارسال صورة بدقة عالية الى الحالة</li>
-<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
-<li> إصلاحات اخرى</li>
+<li> التحديث لنسخة الماركت 2.20.157 المستقرة</li>
+<li> امكانية اجراء مكالمة جماعية صوتية / فيديو حتى 8 اشخاص في نفس الوقت (ملاحظة: الميزة تعمل على اصدارات 2.20.14X ومافوق ) </li>
+<li> تفعيل كافة الميزات التجريبة لشركة الواتساب</li>
+<li> اضافة امكانية ارسال رسالة لرقم غير محفوظ في جهات الاتصال الخاصة بك</li>
+<li> اصلاح مشكلة اغلاق بالقوة في بعض الاجهزة</li>
+<li> اصلاح انهيار التطبيق باالكامل بعد تفعيل خيارات الخصوصية في بعض الاجهزة</li>
+<li> اصلاح كافة المشاكل الموجودة في النسخة 2</li>
+<li> اصلاحات متعلقة باستقرار التطبيق</li>
 
 
-<li> New Base Updated to 2.20.123 Stable Base.</li>
-<li> Ability to Pin 25 instead of 3 Chats.</li>
-<li> Enabled All hidden features..</li>
-<li> Fixed High Resolution images (Status).</li>
-<li> Other fixes.</li>
+<li> New Base Updated to 2.20.157 Stable Base.</li>
+<li> Group video and voice calls now support up to 8 participants. All participants need to be on the latest version of WhatsApp (2.20.14X and up)</li>
+<li> Enabled All hidden features.</li>
+<li> Ability to Send Messages to unsaved Number</li>
+<li> Fixed Force Close on Some Devices.</li>
+<li> Fixed unable Opening app after enable pirvacy options on Some Devices.</li>
+<li> Fixed All bugs in package2 (com.wago)</li>
+<li> Bugs fixes and speed improvements...</li>
 
 
 ","url":"https://soula107.blogspot.com/2019/08/wago.html"
