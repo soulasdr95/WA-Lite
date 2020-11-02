@@ -1,24 +1,14 @@
-{"version_code":453597,"content":"
-<p> تحديث|Update 0.20.50L</p>
+{"version_code":205218001,"content":"
+<p> تحديث|Update 0.20.112L</p>
 
 
-<li> التحديث لنسخة الماركت 2.20.157 المستقرة</li>
-<li> امكانية اجراء مكالمة جماعية صوتية / فيديو حتى 8 اشخاص في نفس الوقت (ملاحظة: الميزة تعمل على اصدارات 2.20.14X ومافوق ) </li>
-<li> تفعيل كافة الميزات التجريبة لشركة الواتساب</li>
-<li> اضافة امكانية ارسال رسالة لرقم غير محفوظ في جهات الاتصال الخاصة بك</li>
-<li> اصلاح مشكلة اغلاق بالقوة في بعض الاجهزة</li>
-<li> اصلاح انهيار التطبيق باالكامل بعد تفعيل خيارات الخصوصية في بعض الاجهزة</li>
-<li> اصلاح كافة المشاكل الموجودة في النسخة 2</li>
+<li> التحديث لنسخة الماركت 2.20.202.18 المستقرة</li>
+<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
 <li> اصلاحات متعلقة باستقرار التطبيق</li>
 
 
-<li> New Base Updated to 2.20.157 Stable Base.</li>
-<li> Group video and voice calls now support up to 8 participants. All participants need to be on the latest version of WhatsApp (2.20.14X and up)</li>
-<li> Enabled All hidden features.</li>
-<li> Ability to Send Messages to unsaved Number</li>
-<li> Fixed Force Close on Some Devices.</li>
-<li> Fixed unable Opening app after enable pirvacy options on Some Devices.</li>
-<li> Fixed All bugs in package2 (com.wago)</li>
+<li> New Base Updated to 2.20.202.18 Stable Base</li>
+<li> Enable all hidden features </li>
 <li> Bugs fixes and speed improvements...</li>
 
 
