@@ -1,15 +1,20 @@
-{"version_code":205218001,"content":"
-<p> تحديث|Update 0.20.112L</p>
+{"version_code":205218002,"content":"
+<p> تحديث|Update 0.20.113L</p>
 
 
 <li> التحديث لنسخة الماركت 2.20.202.18 المستقرة</li>
 <li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
+<li> اصلاح ميزة اخفاء مشاهدة الحالة</li>
 <li> اصلاحات متعلقة باستقرار التطبيق</li>
 
 
 <li> New Base Updated to 2.20.202.18 Stable Base</li>
+<li> Chats can now be muted forever instead of only 1 year.</li>
+<li> Enable disappearing messages feature.</li>
 <li> Enable all hidden features </li>
+<li> Fixed Hide view status</li>
 <li> Bugs fixes and speed improvements...</li>
+ 
 
 
 ","url":"https://soula107.blogspot.com/2019/08/wago.html"
