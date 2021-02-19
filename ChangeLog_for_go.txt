@@ -1,21 +1,33 @@
-{"version_code":205218002,"content":"
-<p> تحديث|Update 0.20.113L</p>
+{"version_code":210113001,"content":"
+<p> تحديث|Update 0.21.1L</p>
 
 
-<li> التحديث لنسخة الماركت 2.20.202.18 المستقرة</li>
-<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
-<li> اصلاح ميزة اخفاء مشاهدة الحالة</li>
+<li> التحديث لنسخة الماركت 2.21.1.13 المستقرة</li>
+<li> اضافة امكانية نسخ وصف الحالة/ الستوري او جزء منه</li>
+<li> امكانية حجب المكالمات مع خيارات متقدمة</li>
+<li> اضافة امكانية النقر على الروابط في وصف الحالة</li>
+<li> اضافة امكانية معاينة الملصق قبل ارساله </li>
+<li> اضافة امكانية اعادة تعين كافة اعدادات الخصوصية الى وضعها الافتراضي</li>
+<li> اضافة خصوصية مخصصة</li>
+<li> تحسينات كبيرة على قائمة الاعدادات</li>
+<li> اضافة حجب مكالمات مخصصة</li>
+<li> دعم اللغة المكسيكية , التركية .</li>
 <li> اصلاحات متعلقة باستقرار التطبيق</li>
 
 
-<li> New Base Updated to 2.20.202.18 Stable Base</li>
-<li> Chats can now be muted forever instead of only 1 year.</li>
-<li> Enable disappearing messages feature.</li>
-<li> Enable all hidden features </li>
-<li> Fixed Hide view status</li>
+<li> New Base Updated to 2.21.1.13 Stable Base.</li>
+<li> Ability to copy the text in Caption of Status (Click on status caption to copy OR long-press on status caption to select text and copy).</li>
+<li> Added Calls Blocker Privacy (Now you can choose who can call you with Extra options) </li>
+<li> Added preview and confirm before sending sticker.</li>
+<li> Added Custom privacy.</li>
+<li> Now You can Click on Links in Caption of Status.</li>
+<li> Added Custom Call Blocker.</li>
+<li> Added Option to Reset All Privacy Settings To Default.</li>
+<li> Improved WA GO UI 95% SAME AS STOCK.</li>
+<li> Support languages [ Spanish - {Mexico) - Turkish - Odia (India)].</li>
 <li> Bugs fixes and speed improvements...</li>
  
 
 
-","url":"https://soula107.blogspot.com/2019/08/wago.html"
+","url":"https://t.co/k3UqXz3eqj"
 }
