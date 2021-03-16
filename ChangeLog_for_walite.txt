@@ -1,5 +1,5 @@
-{"version_code":453134,"content":"
-<p> تحديث|Update 6.15</p>
+{"version_code":205022005,"content":"
+<p> تحديث|Update 6.37.2L</p>
 
 <li>تمديد فتره الصلاحية (ريثما يتم الانتهاء من التحديث الجديد)</li>
 <li> ازالة رسالة التحديث المزعجة</li>
@@ -10,5 +10,5 @@
 <li> Removed Annoying Update WhatsApp message</li>
 
 
-","url":"https://soula107.blogspot.com/2019/08/walite.html"
+","url":"https://t.me/soulamods/622"
 }
