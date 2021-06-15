@@ -1,33 +1,33 @@
-{"version_code":210113001,"content":"
-<p> تحديث|Update 0.21.1L</p>
+{"version_code":211016005,"content":"
+<p> تحديث|Update 0.21.4L</p>
 
 
-<li> التحديث لنسخة الماركت 2.21.1.13 المستقرة</li>
-<li> اضافة امكانية نسخ وصف الحالة/ الستوري او جزء منه</li>
-<li> امكانية حجب المكالمات مع خيارات متقدمة</li>
-<li> اضافة امكانية النقر على الروابط في وصف الحالة</li>
-<li> اضافة امكانية معاينة الملصق قبل ارساله </li>
-<li> اضافة امكانية اعادة تعين كافة اعدادات الخصوصية الى وضعها الافتراضي</li>
-<li> اضافة خصوصية مخصصة</li>
-<li> تحسينات كبيرة على قائمة الاعدادات</li>
-<li> اضافة حجب مكالمات مخصصة</li>
-<li> دعم اللغة المكسيكية , التركية .</li>
-<li> اصلاحات متعلقة باستقرار التطبيق</li>
+<li> التحديث لنسخة الماركت 2.21.10.16 المستقرة.</li>
+<li> أصبح بإمكانك الاستماع إلى الرسائل الصوتية بسرعات مختلفة من خلال التبديل بين أزرار 1× أو 1.5× أو 2× أثناء تشغيل الرسالة.</li>
+<li> تحسين ميزة عرض الصور/الفيديو في المحادثة..</li>
+<li> يمكنك الان تعطيل التحميل التلقائي للوسائط لكل محادثة على حدى (افتح بروفايل اي محادثة ثم اختر التنزيل التلقائي للوسائط).</li>
+<li> تفعيل كافة الميزات التجريبية لشركة الواتساب.</li>
+<li> اصلاح ظهور الاعدادات في كافة الواجهات.</li>
+<li> حذف الاعلانات من داخل التطبيق.</li>
+<li> اصلاح ميزة النسخ الاحتياطي (اندرويد 11).</li>
+<li> اصلاح انهيار التطبيق عند الضعط على زر الاستعادة.</li>
+<li> اصلاحات متعلقة باستقرار التطبيق.</li>
 
 
-<li> New Base Updated to 2.21.1.13 Stable Base.</li>
-<li> Ability to copy the text in Caption of Status (Click on status caption to copy OR long-press on status caption to select text and copy).</li>
-<li> Added Calls Blocker Privacy (Now you can choose who can call you with Extra options) </li>
-<li> Added preview and confirm before sending sticker.</li>
-<li> Added Custom privacy.</li>
-<li> Now You can Click on Links in Caption of Status.</li>
-<li> Added Custom Call Blocker.</li>
-<li> Added Option to Reset All Privacy Settings To Default.</li>
-<li> Improved WA GO UI 95% SAME AS STOCK.</li>
-<li> Support languages [ Spanish - {Mexico) - Turkish - Odia (India)].</li>
+
+<li> New Base Updated to 2.21.10.16 Stable Base.</li>
+<li> You can now listen to voice messages at different speeds by toggling the 1x/1.5x/2x buttons while a message is playing.</li>
+<li> Image and video previews have been updated so you can now see more of the media in chat.</li>
+<li> Added Custom Media Auto-Download ( Now you can choose for which particular contact you want auto download). </li>
+<li> Removed MediaMods (Notes: some options are enabled by default. ) /(It will be avisable in next updates.. )</li>
+<li> Removed All ADS IN APP :).</li>
+<li> Enable all hidden features..</li>
+<li> Fixed Restore/Backup Data on Android 11</li>
+<li> Fixed crash app when click on restore button.</li>
+<li> Fixed show WA GO options in all screens ( Chats - Status - Calls).</li>
 <li> Bugs fixes and speed improvements...</li>
  
 
 
-","url":"https://bit.ly/3vTK3zJ"
+","url":"https://t.co/cG2PTrOcCv"
 }
