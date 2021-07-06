@@ -1,32 +1,18 @@
 
-{"version_code":211016005,"content":"
-<p> تحديث|Update 0.21.4L</p>
+{"version_code":211221005,"content":"
+<p> تحديث|Update 0.21.5L</p>
 
 
-<li> التحديث لنسخة الماركت 2.21.10.16 المستقرة.</li>
-<li> أصبح بإمكانك الاستماع إلى الرسائل الصوتية بسرعات مختلفة من خلال التبديل بين أزرار 1× أو 1.5× أو 2× أثناء تشغيل الرسالة.</li>
-<li> تحسين ميزة عرض الصور/الفيديو في المحادثة..</li>
-<li> يمكنك الان تعطيل التحميل التلقائي للوسائط لكل محادثة على حدى (افتح بروفايل اي محادثة ثم اختر التنزيل التلقائي للوسائط).</li>
+<li> التحديث لنسخة الماركت 2.21.12.21 المستقرة.</li>
+<li> اصلاح ميزة حجب المكالمات.</li>
 <li> تفعيل كافة الميزات التجريبية لشركة الواتساب.</li>
-<li> اصلاح ظهور الاعدادات في كافة الواجهات.</li>
-<li> حذف الاعلانات من داخل التطبيق.</li>
-<li> اصلاح ميزة النسخ الاحتياطي (اندرويد 11).</li>
-<li> اصلاح انهيار التطبيق عند الضعط على زر الاستعادة.</li>
 <li> اصلاحات متعلقة باستقرار التطبيق.</li>
 
 
-
-<li> New Base Updated to 2.21.10.16 Stable Base.</li>
-<li> You can now listen to voice messages at different speeds by toggling the 1x/1.5x/2x buttons while a message is playing.</li>
-<li> Image and video previews have been updated so you can now see more of the media in chat.</li>
-<li> Added Custom Media Auto-Download ( Now you can choose for which particular contact you want auto download). </li>
-<li> Removed MediaMods (Notes: some options are enabled by default. ) /(It will be avisable in next updates.. )</li>
-<li> Removed All ADS IN APP :).</li>
-<li> Enable all hidden features..</li>
-<li> Fixed Restore/Backup Data on Android 11</li>
-<li> Fixed crash app when click on restore button.</li>
-<li> Fixed show WA GO options in all screens ( Chats - Status - Calls).</li>
-<li> Bugs fixes and speed improvements...</li>
+<li>  New Base Updated to 2.21.12.21 Stable Base.</li>
+<li>  Enable all hidden features.</li>
+<li>  Fixed Call Blocker.</li>
+<li>  Bugs fixes and speed improvements.</li>
  
 
 
