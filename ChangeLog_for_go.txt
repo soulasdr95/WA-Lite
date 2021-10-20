@@ -1,33 +1,12 @@
-{"version_code":211817003,"content":"
-<p> تحديث|Update 0.21.10L</p>
+{"version_code":211817004,"content":"
+<p> تحديث|Update 0.21.10L Fix 2</p>
 
 
-<li> التحديث لنسخة الماركت 2.21.18.17 المستقرة.</li>
-<li> اضافة امكانية حفظ الصورة/ الفيديو القابلة للتدمير الذاتي</li>
-<li> اضافة امكانية تجاوز عرض الصورة / الفيديو القابلة للتدمير الذاتي لمرة واحدة.</li>
-<li> اعادة اضافة ميزات الميديا .</li>
-<li> اضافة خيار لاخفاء ايقونة قطع الانترنت.</li>
-<li> تحسين الألوان في التطبيق.</li>
-<li> اضافة امكانية تشغيل الصوت في الحالة بشكل تلقائي.</li>
-<li> اضافة امكانية مشاركة الحالة / الستوري</li>
-<li> تحسينات على ميزة اعادة تعين الاعدادات الى وضعها الافتراضي.</li>
-<li> تحسينات على واجهة الاعدادات المتقدمة.</li>
-<li> اصلاح ميزة تخصيص التنزيل التلقائي للوسائط.</li>
-<li> تحسينات متعلقة بالاستقرار والأداء.</li>
 
+<li>اصلاح عدم تنزيل الوسائط. في نظام 11</li>
 
-<li> New Base Updated to 2.21.18.17 Stable Base.</li>
-<li> Added Ability To Download View Once Photos/ Videos.</li>
-<li> Added Anti-View Once</li>
-<li> Re-Added MediaMods </li>
-<li> Added Option to Hide DND Mode Icon</li>
-<li> Added option to share status.</li>
-<li> New UI from WhatsApp.inc</li>
-<li> Added option to start stories directly with sound.</li>
-<li> Improved Default Mode.</li>
-<li> Improved WA GO Settings UI.</li>
-<li> Fixed custom media auto-download</li>
-<li> Bugs fixes and speed improvements.</li>
+<li>Fixed unable to download media on android 11</li>
+
  
 
 
