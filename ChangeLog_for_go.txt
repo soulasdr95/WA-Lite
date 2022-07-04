@@ -1,35 +1,23 @@
-{"version_code":211817018,"content":"
-<p> تحديث|Update 0.22.2b</p>
+{"version_code":211817021,"content":"
+<p> تحديث|Update 0.22.6L</p>
 
 
+<li> التحديث لنسخة الماركت 2.22.12.77 المستقرة.</li>
+<li> تفعيل إمكانية التفاعل ب أي رمز تعبيري  في المحادثة وذلك من خلال الضغط على "+"</li>
+<li> إضافة امكانية ترجمة الرسائل لعدة لغات.</li>
+<li> إصلاح ميزة تجاوز خاصية العرض لمرة واحدة.</li>
+<li> إصلاح الانهيار عند فتح محادثة.</li>
+<li> إصلاح التعليق ...البرنامج اصبح اكثر سرعة وسلاسة!</li>
+<li> إصلاحات اخرى..</li>
 
-<li> التحديث لنسخة الماركت 2.22.4.74 المستقرة.</li>
-<li> تحسين ميزة اظهار الصح الازرق بعد الرد (أصبحت تدعم المجموعات).</li>
-<li> اضافة امكانية ايقاف / استئناف المقطع الصوتي اثناء التسجيل.</li>
-<li> تحسين ميزة التدمير الذاتي للرسائل ( 24 ساعة , 7 أيام , 90 يوم ).</li>
-<li> ازالة الشريط الخاص بعرض الصور / الفيديوهات المستخدمة مؤخرا في الكاميرا.</li>
-<li> تحسين واجهة الكاميرا.</li>
-<li> تفعيل ميزة التفاعل الخاصة بالرسائل.</li>
-<li> تفعيل ميزة مشغل المقاطع الصوتية.</li>
-<li> تفعيل ادوات التعديل الخاصة بالصورة</li>
-<li> تفعيل ميزة الاشعارات الخاصة بالتفاعلات.</li>
-<li> تفعيل الواجهة الجديدة لاختيار ومشاركة الوسائط.</li>
-<li> اصلاح ميزة تجاوز خاصية العرض لمرة واحدة.</li>
-<li> تحسينات متعلقة بالاستقرار والأداء.</li>
 
-<li>New Base Updated to 2.22.4.74 Stable Base.</li>
-<li>Added Blue Tick on Reply for Groups</li>
-<li>Added Ability to pause and resume voice recordings when you’re recording a voice note!</li>
-<li>Enable Disappearing messages more options (24hrs, 7 days, 90 days).</li>
-<li>Removed the horizontal media bar from the WhatsApp camera.</li>
-<li>Enable Reactions.</li>
-<li>Enable Global Voice Note Player.</li>
-<li>Enable New drawing tools.</li>
-<li>Enable Reaction Notifications.</li>
-<li>Enable New Media Picker.</li>
-<li>Fixed Anti View Once turning opened randomly.</li>
-<li>Bugs fixes and speed improvements.</li>
-<li>Many other things that I forgot.</li>
+<li>New Base Updated to 2.22.12.77 Stable Base.</li>
+<li>Added Ability To Send any emoji as reactions (Click "+" icon).</li>
+<li>In-App Translator to translate messages to 13 different languages.</li>
+<li>Fixed Anti View Once.</li>
+<li>Fixed Crash when opening conversations in some devices.</li>
+<li>Fixed Slow and lag when scrolling</li>
+<li>Bugs fixes and speed improvements...</li>
 
  
 
