@@ -1,5 +1,5 @@
 
-{"version_code":211817023,"content":"
+{"version_code":211817021,"content":"
 <p> تحديث|Update 0.22.10L</p>
 
 
