@@ -1,25 +1,23 @@
 
-{"version_code":211817021,"content":"
-<p> تحديث|Update 0.22.10L</p>
+{"version_code":211817025,"content":"
+<p> تحديث|Update 0.22.12L</p>
 
 
-<li> إضافة إمكانية اختيار مشغل الفيديو.</li>
-<li> اعادة دعم الانظمة القديمة (4.4- 4.3- 4.2- 4.1).</li>
-<li> إصلاح ميزة اخفاء عبارة  رسالة محولة .</li>
-<li> اعادة اضافة ميزة اظهار صحين الازرق فقط بعد الرد.</li>
-<li> تفعيل جميع الميزات التجريبية الأخيرة لشركة واتساب.</li>
+<li> التحديث لنسخة الماركت 2.22.23.84 .</li>
+<li> إصلاح ميزة تجاوز خاصية العرض لمرة واحدة.</li>
+<li> تفعيل ميزة الافاتار.</li>
+<li> تفعيل ميزة التصويت.</li>
+<li> تفعيل ميزة ارسال رسالة الى نفسك.</li>
+<li> إصلاحات اخرى..</li>
 
 
-<li> New Base Updated to 2.22.19.11 Beta Base</li>
-<li> Added custom video player Now You can Play Videos in your Favourite external app (MX or any other)</li>
-<li> Fixed a crash problem when you open the program on Android (4.4.x  - 4.3 - 4.2.x - 4.1.x)</li>
-<li> Re-Added Show Blue ticks after reply</li>
-<li> Enabled All Beta features</li>
-<li> Fixed Hide Forward tag option</li>
-<li> Speed Improvements</li>
 
+<li> New Base Updated to 2.22.23.84 Stable Base.</li>
+<li> Fixed Anti View Once.</li>
+<li> Enabled All Hidden features (Forward Media with Caption , Message yourself , Poll , Etc..).</li>
+<li> Other fixes. </li>
  
 
 
-","url":"https://t.co/QjBDho8xTI?amp=1"
+","url":"https://t.co/wDw97pTrLo"
 }
