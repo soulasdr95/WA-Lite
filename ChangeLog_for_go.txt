@@ -1,11 +1,38 @@
-{"version_code":211817023,"content":"
-<p> تحديث|Update 0.23.0L</p>
+{"version_code":211817029,"content":"
+<p> تحديث|Update 0.23.2L</p>
 
 
-<li> New Base Updated to 2.23.1.11 Beta Base. </li>
-<li> Fixed Crash App in some devices. </li>
-<li> Fixed language display issue. </li>
-<li> Other fixes.  </li>
+<li> التحديث لنسخة الماركت 2.23.1.76 المستقرة.</li>
+<li> اضافة خيار لاخفاء ايقونة الكاميرا في الشريط العلوي.</li>
+<li> اضافة خيار لاخفاء ايقونة زر البحث في الشريط العلوي.</li>
+<li> اضافة خيار لاخفاء ايقونة قطع الاتصال بالانترنت في الشريط العلوي.</li>
+<li> اضافة ميزة لتحكم بقائمة الخيارات واخفاء او اظهار ماتريده في الشاشة الرئيسية.</li>
+<li> اضافة ميزة لتحكم بقائمة الخيارات واخفاء او اظهار ماتريده في شاشة عرض الحالة.</li>
+<li> تفعيل جميع الميزات التجريبية الأخيرة لشركة واتساب (ارسال مقطع صوتي الى الحالة).</li>
+<li> اصلاح جار التسجيل.</li>
+<li> اصلاح انهيار التطبيق في الانظمة القديمة 4.x.</li>
+<li> اصلاحات اخرى.</li>
+
+<li> New Base Updated to 2.23.1.76 Stable Base.</li>
+<li> Added Ability to Hide Search Icon.</li>
+<li> Added Ability to Hide Camera Icon.</li>
+<li> Added Ability to Hide Dnd Icon.</li>
+<li> Added Ability to Hide Update settings option.</li>
+<li> Added Ability to Hide Starred Messages option.</li>
+<li> Added Ability to Hide New Group option.</li>
+<li> Added Ability to Hide Message option.</li>
+<li> Added Ability to Hide Voice call option.</li>
+<li> Added Ability to Hide Video call option.</li>
+<li> Added Ability to Hide View contact option.</li>
+<li> Added Ability to Hide Mute/ UnMute Status option.</li>
+<li> Added Ability to Hide Save /Copy Status option.</li>
+<li> Added Ability to Hide Share Status option.</li>
+<li> Added Ability to Hide New Broadcast option.</li>
+<li> Added Ability to Hide Linked Devices option.</li>
+<li> Fixed Hide recording option.</li>
+<li> Enabled All Beta features (send voice to status.).</li>
+<li> Fixed Crash when opening conversations in Android 4.x and up.</li>
+<li> Other fixes.</li>
  
 
 
