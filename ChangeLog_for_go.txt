@@ -1,13 +1,13 @@
-{"version_code":211817030,"content":"
-<p> تحديث|Update 0.23.4L BETA 2</p>
+{"version_code":211817032,"content":"
+<p> تحديث|Update 0.23.4L BETA 3</p>
 
 
-
+<li> Fix crash app when make a Video call </li>
 <li> If you get ban before pls (Backup your chats ,then remove whatsapp ,then install the new update ,then enter your number and verify it via sms, then restore your chat..)</li>
 <li> Improved Anti-ban protection..</li>
 <li> Other fixes. </li>
  
 
 
-","url":"https://t.co/QjBDho8xTI?amp=1"
+","url":"https://t.co/1SkqIdBbmr"
 }
