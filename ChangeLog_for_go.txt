@@ -1,13 +1,11 @@
-{"version_code":211817032,"content":"
-<p> تحديث|Update 0.23.4L BETA 3</p>
+{"version_code":211817033,"content":"
+<p> تحديث|Update 0.23.4L BETA 3 EX</p>
+
+<li>تمديد صلاحية النسخة ريثما يتم الانتهاء من التحديث الجديد</li>
+
+<li>Added Anti-Expiry. </li>
+<li>Removed Annoying Update WhatsApp message. </li>
 
 
-<li> Fix crash app when make a Video call </li>
-<li> If you get ban before pls (Backup your chats ,then remove whatsapp ,then install the new update ,then enter your number and verify it via sms, then restore your chat..)</li>
-<li> Improved Anti-ban protection..</li>
-<li> Other fixes. </li>
- 
-
-
-","url":"https://t.co/lyTwL4Qk7S"
+","url":"https://t.co/QjBDho8xTI"
 }
