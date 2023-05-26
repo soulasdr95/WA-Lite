@@ -1,10 +1,20 @@
-{"version_code":211817033,"content":"
-<p> تحديث|Update 0.23.4L BETA 3 EX</p>
+{"version_code":211817037,"content":"
+<p> تحديث|Update 0.23.5L</p>
 
-<li>تمديد صلاحية النسخة ريثما يتم الانتهاء من التحديث الجديد</li>
+</li> التحديث لنسخة الماركت 2.23.8.76 ( ملاحظة هامة : اعتبارا من التحديثات القادمة لن يتم دعم نظام 4 بشكل نهائي.)<li>
+</li> تفعيل ميزة البحث ضمن الاعدادات.<li>
+</li> تفعيل الواجهة الجديدة لتطبيق واتساب.<li>
+</li> المزيد من التحسينات ضد الحظر<li>
+</li> إصلاح عرض "التطبيق الخبيث" في أجهزة الشاومي والهواوي..<li>
+</li> اصلاحات اخرى.<li>
 
-<li>Added Anti-Expiry. </li>
-<li>Removed Annoying Update WhatsApp message. </li>
+
+<li>New Base Updated to 2.23.8.76 Stable Base. (Note: This is last update for Android 4.x)</li>
+<li>Enable New WA UI.</li>
+<li>Enable Search Icon in wa settings.</li>
+<li>Improved Anti-ban protection..</li>
+<li>Fixed show "Malicious application" in xiaomi and huawei devices.</li>
+<li>Other fixes.</li>
 
 
 ","url":"https://t.co/QjBDho8xTI"
