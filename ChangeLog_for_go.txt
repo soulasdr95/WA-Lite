@@ -1,15 +1,18 @@
 {"version_code":211817037,"content":"
-<p> تحديث|Update 0.23.5L</p>
+<p> تحديث|Update 0.23.5L B2</p>
 
-</li> التحديث لنسخة الماركت 2.23.8.76 ( ملاحظة هامة : اعتبارا من التحديثات القادمة لن يتم دعم نظام 4 بشكل نهائي.)<li>
+
+</li> التحديث لنسخة الماركت 2.23.8.76<li>
 </li> تفعيل ميزة البحث ضمن الاعدادات.<li>
 </li> تفعيل الواجهة الجديدة لتطبيق واتساب.<li>
+</li>اضافة خيار لتفعيل / تعطيل الواجهة الجديدة<li>
 </li> المزيد من التحسينات ضد الحظر<li>
 </li> إصلاح عرض "التطبيق الخبيث" في أجهزة الشاومي والهواوي..<li>
 </li> اصلاحات اخرى.<li>
 
 
-<li>New Base Updated to 2.23.8.76 Stable Base. (Note: This is last update for Android 4.x)</li>
+<li>New Base Updated to 2.23.8.76 Stable Base.</li>
+<li>Added option to Enable /Disable New WA UI.</li>
 <li>Enable New WA UI.</li>
 <li>Enable Search Icon in wa settings.</li>
 <li>Improved Anti-ban protection..</li>
